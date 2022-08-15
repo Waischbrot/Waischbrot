@@ -11,7 +11,7 @@ Hi! 👋
 </p>
 
   •	<a href="mailto:waischbrot@quantentunnel.de">
-      <img align="center" src="https://img.shields.io/badge/danielvazquezmunoz@hotmail.com-0A0A0A?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
+      <img align="center" src="https://img.shields.io/badge/waischbrot@quantentunnel.de-0A0A0A?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
     </a>
 </div>
 ﾠ
