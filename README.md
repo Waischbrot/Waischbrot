@@ -1,10 +1,34 @@
-- 👋 Hi, I’m @Waischbrot
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi! 👋
 
-<!---
-Waischbrot/Waischbrot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+:bust_in_silhouette: My name is **Daniel Vázquez**, born in Seville (Spain) and i am a young programmer in this field.
+
+ﾠ
+<div>
+<p>
+  <b>
+    Contact:
+  </b>
+</p>
+
+  •	<a href="mailto:danielvazquezmunoz@hotmail.com">
+      <img align="center" src="https://img.shields.io/badge/danielvazquezmunoz@hotmail.com-0A0A0A?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
+    </a>
+</div>
+ﾠ
+<p>
+  <b>
+    More info:
+  </b>
+</p>
+
+<div align="center">
+  <a href="https://github.com/Skjolberg">
+    <img src="https://komarev.com/ghpvc/?username=Skjolberg&style=for-the-badge">
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/Skjolberg">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Skjolberg&repo=skjolberg&count_private=true&include_all_commits=true&show_icons=true&theme=midnight-purple&card_width=1080">
+  </a>
+</div>
