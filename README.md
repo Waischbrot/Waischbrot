@@ -10,7 +10,7 @@ Hi! 👋
   </b>
 </p>
 
-  •	<a href="mailto:danielvazquezmunoz@hotmail.com">
+  •	<a href="mailto:waischbrot@quantentunnel.de">
       <img align="center" src="https://img.shields.io/badge/danielvazquezmunoz@hotmail.com-0A0A0A?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
     </a>
 </div>
@@ -22,8 +22,8 @@ Hi! 👋
 </p>
 
 <div align="center">
-  <a href="https://github.com/Skjolberg">
-    <img src="https://komarev.com/ghpvc/?username=Skjolberg&style=for-the-badge">
+  <a href="https://github.com/Waischbrot">
+    <img src="https://komarev.com/ghpvc/?username=Waischbrot&style=for-the-badge">
   </a>
 </div>
 
