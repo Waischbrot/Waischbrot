@@ -2,7 +2,6 @@ Hi! 👋
 
 :bust_in_silhouette: My name is **Lukas** / **Waischbrot** and I develop Minecraft, Discord and Web stuff for fun!
 
-ﾠ
 <div>
 <p>
   <b>
