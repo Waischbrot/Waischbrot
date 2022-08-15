@@ -28,7 +28,7 @@ Hi! 👋
 </div>
 
 <div align="center">
-  <a href="https://github.com/Skjolberg">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Skjolberg&repo=skjolberg&count_private=true&include_all_commits=true&show_icons=true&theme=midnight-purple&card_width=1080">
+  <a href="https://github.com/Waischbrot">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Waischbrot&repo=Waischbrot&count_private=true&include_all_commits=true&show_icons=true&theme=midnight-purple&card_width=1080">
   </a>
 </div>
