@@ -1,6 +1,19 @@
 Hi! 👋
 
-:bust_in_silhouette: My name is **Lukas** / **Waischbrot** and I develop Minecraft, Discord and Web stuff for fun!
+:bust_in_silhouette: My name is **Lukas** / **Waischbrot**, I am **16 years** old and I develop Minecraft, Discord and Web stuff for fun!
+
+🚀 Experience in those languages:
+• Java (Main)
+• TypeScript
+• JavaScript
+• Python (little bit)
+• Kotlin
+
+📜 I also have knowledge with:
+• SQL (MariaDB, JDBC, PostgreSQL)
+• NoSQl (Mongo, Redis)
+• ORM's (MongoDB Morphia & Hibernate)
+• REST-Apis using Springboot
 
 <div>
 <p>
