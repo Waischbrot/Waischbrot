@@ -1,6 +1,6 @@
 Hi! 👋
 
-:bust_in_silhouette: My name is **Daniel Vázquez**, born in Seville (Spain) and i am a young programmer in this field.
+:bust_in_silhouette: My name is **Lukas** / **Waischbrot** and I develop Minecraft, Discord and Web stuff for fun!
 
 ﾠ
 <div>
