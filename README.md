@@ -11,7 +11,6 @@ Hi! 👋
 
 📜 I also have knowledge with:
 • SQL (MariaDB, JDBC, PostgreSQL)
-
 • NoSQl (Mongo, Redis)
 • ORM's (MongoDB Morphia & Hibernate)
 • REST-Apis using Springboot
