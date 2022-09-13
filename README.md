@@ -2,7 +2,11 @@ Hi! 👋
 
 :bust_in_silhouette: My name is **Lukas** / **Waischbrot**, I am **17 years** old and I develop Minecraft, Discord and Web stuff for fun!
 
-🚀 Experience in those languages:
+<p>
+  <b>
+    🚀 Experience in those languages::
+  </b>
+</p>
 • Java (Main)
 • TypeScript
 • JavaScript
@@ -13,11 +17,11 @@ Hi! 👋
   <b>
     📜 Other knowledge:
   </b>
-  • SQL (MariaDB, JDBC, PostgreSQL)
-  • NoSQl (Mongo, Redis)
-  • ORM's (MongoDB Morphia & Hibernate)
-  • REST-Apis using Springboot
 </p>
+• SQL (MariaDB, JDBC, PostgreSQL)
+• NoSQl (Mongo, Redis)
+• ORM's (MongoDB Morphia & Hibernate)
+• REST-Apis using Springboot
 
 <div>
 <p>
