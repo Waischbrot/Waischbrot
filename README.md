@@ -4,14 +4,15 @@ Hi! 👋
 
 <p>
   <b>
-    🚀 Experience in those languages:
+    🚀 Experience in those languages:<br/>
   </b>
+  <br/>
+  • Java (Main)
+  • TypeScript<br/>
+  • JavaScript<br/>
+  • Python (little bit)<br/>
+  • Kotlin<br/>
 </p>
-• Java (Main)
-• TypeScript
-• JavaScript
-• Python (little bit)
-• Kotlin
 
 <p>
   <b>
