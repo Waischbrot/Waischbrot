@@ -9,6 +9,12 @@ Hi! 👋
 • Python (little bit)
 • Kotlin
 
+<p>
+  <b>
+    📜 I also have knowledge with:
+  </b>
+</p>
+
 📜 I also have knowledge with:
 • SQL (MariaDB, JDBC, PostgreSQL)
 • NoSQl (Mongo, Redis)
