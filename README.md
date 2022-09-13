@@ -1,6 +1,6 @@
 Hi! 👋
 
-:bust_in_silhouette: My name is **Lukas** / **Waischbrot**, I am **16 years** old and I develop Minecraft, Discord and Web stuff for fun!
+:bust_in_silhouette: My name is **Lukas** / **Waischbrot**, I am **17 years** old and I develop Minecraft, Discord and Web stuff for fun!
 
 🚀 Experience in those languages:
 • Java (Main)
@@ -22,7 +22,7 @@ Hi! 👋
   </b>
 </p>
 
-  •	<a href="mailto:waischbrot@quantentunnel.de">
+  <a href="mailto:waischbrot@quantentunnel.de">
       <img align="center" src="https://img.shields.io/badge/waischbrot@quantentunnel.de-0A0A0A?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
     </a>
 </div>
