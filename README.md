@@ -4,7 +4,7 @@ Hi! 👋
 
 <p>
   <b>
-    🚀 Experience in those languages::
+    🚀 Experience in those languages:
   </b>
 </p>
 • Java (Main)
@@ -22,6 +22,7 @@ Hi! 👋
 • NoSQl (Mongo, Redis)
 • ORM's (MongoDB Morphia & Hibernate)
 • REST-Apis using Springboot
+
 
 <div>
 <p>
