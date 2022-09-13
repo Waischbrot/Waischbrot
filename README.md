@@ -15,14 +15,14 @@ Hi! 👋
 
 <p>
   <b>
-    📜 Other knowledge:
+    📜 Other knowledge:<br />
   </b>
-</p>
+  <br />
   • SQL (MariaDB, JDBC, PostgreSQL)<br />
   • NoSQl (Mongo, Redis)<br />
   • ORM's (MongoDB Morphia & Hibernate)<br />
   • REST-Apis using Springboot<br />
-
+</p>
 
 <div>
 <p>
