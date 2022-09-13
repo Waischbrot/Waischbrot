@@ -7,7 +7,7 @@ Hi! 👋
     🚀 Experience in those languages:<br/>
   </b>
   <br/>
-  • Java (Main)
+  • Java (Main)<br/>
   • TypeScript<br/>
   • JavaScript<br/>
   • Python (little bit)<br/>
