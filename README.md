@@ -8,10 +8,12 @@ Hi! 👋
   </b>
   <br/>
   • Java (Main)<br/>
-  • TypeScript<br/>
-  • JavaScript<br/>
+  • JavaScript (TypeScript)<br/>
   • Python (little bit)<br/>
   • Kotlin<br/>
+  • HTML<br/>
+  • CSS<br/>
+  • Rust<br/>
 </p>
 
 <p>
@@ -23,6 +25,7 @@ Hi! 👋
   • NoSQl (Mongo, Redis)<br />
   • ORM's (MongoDB Morphia & Hibernate)<br />
   • REST-Apis using Springboot<br />
+  • React (Javascript)<br />
 </p>
 
 <div>
