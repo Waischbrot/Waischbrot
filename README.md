@@ -1,6 +1,6 @@
 Hi! 👋
 
-:bust_in_silhouette: My name is **Lukas** / **Waischbrot**, I am **17 years** old and I develop Minecraft, Discord and Web stuff for fun!
+:bust_in_silhouette: My name is **Lukas** / **Waischbrot**, I am **18 years** old and I develop Minecraft, Discord and Web stuff for fun!
 
 <p>
   <b>
