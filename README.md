@@ -36,7 +36,7 @@
 
 </br>
 
-## Tech experiences 🖥️🛠:
+## Tech Experience 🖥️🛠:
 > Some of the tools & languages that i have used throughout my projects
 
 </br>
@@ -61,6 +61,8 @@
 </br>
 
 *************
+
+</br>
 
 <p>
   <img width="450" alt="GIF" align="right" src="https://github.com/Waischbrot/Waischbrot/blob/main/assets/contact_me.gif">
