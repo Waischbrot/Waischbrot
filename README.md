@@ -10,7 +10,7 @@
   <a href="https://github.com/Waischbrot/Waischbrot">
     <img src="https://komarev.com/ghpvc/?username=waischbrot" alt="page views" />
   </a>
-  <a href="https://waischbrot.de">
+  <a href="https://waischbrot.net">
     <img alt="Website" src="https://img.shields.io/badge/website-down-red">
   </a>
   <a href="https://stackoverflow.com/users/27356488">
@@ -42,7 +42,7 @@
 </br>
   
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<a href="https://waischbrot.de">
+<a href="https://waischbrot.net">
   <p align="center">
     <img src="https://skillicons.dev/icons?i=idea,java,kotlin,maven,gradle,spring,hibernate" alt="java&kotlin">
     </br>
@@ -79,5 +79,5 @@
 </p>
 
 [dmTech]: https://www.dm-jobs.com/dmTECH/?locale=de_DE "dmTech"
-[portfolio]: https://waischbrot.de "My Portfolio"
+[portfolio]: https://waischbrot.net "My Portfolio"
 [issues page]: https://github.com/Waischbrot/issues "Waischbrot/issues"
