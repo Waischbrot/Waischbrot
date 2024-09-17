@@ -38,53 +38,29 @@
 - 🏃‍♂️ &nbsp;In my free time, I enjoy **long-distance running** and **chess**
 - 📯 &nbsp;Ask me anything on my **[issues page]**
 
-<br>
+</br>
 
-<h2 align="left" id="waischbrot-tech">Favorite Tech</h2>
+## Tech experiences 👨‍💻 🛠:
+> Some of the tools & languages that i have touched in my projects
 
-> Tools, languages, and other things that I like to work with.
+</br>
+<p align="center">
+  
+<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+<img src="https://skillicons.dev/icons?i=idea,java,kotlin,maven,gradle,spring,hibernate" alt="java&kotlin">
+</br>
+<img src="https://skillicons.dev/icons?i=vscode,html,css,js,ts,bun" alt="web">
+</br>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgres" alt="data">
+</br>
+<img src="https://skillicons.dev/icons?i=linux,windows,bash" alt="data">
+</br>
+<img src="https://skillicons.dev/icons?i=redis,kafka" alt="data">
 
-
-
-:bust_in_silhouette: My name is **Lukas** / **Waischbrot**, I am **18 years** old and I develop Minecraft, Discord and Web stuff for fun!
-
-<p>
-  <b>
-    🚀 Experience in those languages:<br/>
-  </b>
-  <br/>
-  • Java (Main)<br/>
-  • JavaScript (TypeScript)<br/>
-  • Python (little bit)<br/>
-  • Kotlin<br/>
-  • HTML<br/>
-  • CSS<br/>
-  • Rust<br/>
 </p>
+</br>
 
-<p>
-  <b>
-    📜 Other knowledge:<br />
-  </b>
-  <br />
-  • SQL (MariaDB, JDBC, PostgreSQL)<br />
-  • NoSQl (Mongo, Redis)<br />
-  • ORM's (MongoDB Morphia & Hibernate)<br />
-  • REST-Apis using Springboot<br />
-  • React (Javascript)<br />
-</p>
 
-<div>
-<p>
-  <b>
-    Contact:
-  </b>
-</p>
-
-  <a href="mailto:waischbrot@quantentunnel.de">
-      <img align="center" src="https://img.shields.io/badge/waischbrot@quantentunnel.de-0A0A0A?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
-    </a>
-</div>
 
 [dmTech]: https://www.dm-jobs.com/dmTECH/?locale=de_DE "dmTech"
 [portfolio]: https://waischbrot.de "My Portfolio"
