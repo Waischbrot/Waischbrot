@@ -37,7 +37,7 @@
 </br>
 
 ## Tech experiences 🖥️🛠:
-> Some of the tools & languages that i have used in my projects
+> Some of the tools & languages that i have used throughout my projects
 
 </br>
   
@@ -50,29 +50,32 @@
     </br>
     <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgres" alt="data">
     </br>
-    <img src="https://skillicons.dev/icons?i=linux,windows,bash" alt="data">
+    <img src="https://skillicons.dev/icons?i=linux,windows,bash" alt="os">
     </br>
-    <img src="https://skillicons.dev/icons?i=redis,kafka" alt="data">
+    <img src="https://skillicons.dev/icons?i=redis,kafka" alt="pubsub">
+  </br>
+    <img src="https://skillicons.dev/icons?i=python" alt="garbage">
   </p>
 </a>
 
 </br>
 
-## Contact Me ☕:
+*************
 
-</br>
 <p>
   <img width="450" alt="GIF" align="right" src="https://github.com/Waischbrot/Waischbrot/blob/main/assets/contact_me.gif">
-
-  <i>A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.</i>
-  <br>
-  <i>You miss 100% of the shots you don't take.</i>
- 
+  </br>
+  <i>I fear not the man who has practiced 10,000 kicks once, but I</i>
+  </br>
+  <i>fear the man who has practiced one kick 10,000 times.</i>
+  </br>
+  </br>
+  </br>
+  <a href="https://discord.gg/mDfs2Db5TP" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  /></a>
+  <a href="https://stackoverflow.com/users/27356488/waischbrot" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="stackoverflow logo"  /></a>
+  <a href="mailto:lukas.bollhoefer@gmx.de" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/static/v1?message=lukas.bollhoefer@gmx.de&logo=maildotru&label=&color=4CAF50&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="mail logo"  /></a>
 </p>
 
-</br></br>
-
-*************
 [dmTech]: https://www.dm-jobs.com/dmTECH/?locale=de_DE "dmTech"
 [portfolio]: https://waischbrot.de "My Portfolio"
 [issues page]: https://github.com/Waischbrot/issues "Waischbrot/issues"
