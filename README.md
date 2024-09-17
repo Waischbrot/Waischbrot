@@ -80,4 +80,4 @@
 
 [dmTech]: https://www.dm-jobs.com/dmTECH/?locale=de_DE "dmTech"
 [portfolio]: https://waischbrot.net "My Portfolio"
-[issues page]: https://github.com/Waischbrot/issues "Waischbrot/issues"
+[issues page]: https://github.com/Waischbrot/Waischbrot/issues "Waischbrot/issues"
