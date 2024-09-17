@@ -28,7 +28,6 @@
   <img src="https://raw.githubusercontent.com/Waischbrot/github-stats-transparent/output/generated/overview.svg" alt="waischbrot" align="right" />
 </a>
 
-
 - 💼 &nbsp;I'm currently working at **[dmTech]**
 - 🌱 &nbsp;I'm currently building my **[portfolio]** (coming soon!)
 - 💡 &nbsp;I like to talk about **Java**, **Kotlin**, and **web apps**
@@ -37,7 +36,7 @@
 
 </br>
 
-## Tech experiences 👨‍💻 🛠:
+## Tech experiences 🖥️🛠:
 > Some of the tools & languages that i have touched in my projects
 
 </br>
@@ -59,8 +58,11 @@
 
 </br>
 
+<div align="right">
+  <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Waischbrot/Waischbrot/blob/main/assets/contact_me.gif">
+</div>
 
-
+*************
 [dmTech]: https://www.dm-jobs.com/dmTECH/?locale=de_DE "dmTech"
 [portfolio]: https://waischbrot.de "My Portfolio"
 [issues page]: https://github.com/Waischbrot/issues "Waischbrot/issues"
