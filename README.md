@@ -1,10 +1,10 @@
-# 👋 Good morning, I'm Lukas!
+# 👋 Hey, I'm Lukas!
 
 <div align="center">
   <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Waischbrot/Waischbrot/blob/main/assets/literally_me.gif">
 </div>
 
-</br></br></br>
+</br></br>
 
 :bust_in_silhouette: My name is **Lukas** / **Waischbrot**, I am **18 years** old and I develop Minecraft, Discord and Web stuff for fun!
 
