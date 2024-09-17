@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Lukas, **19** years old
 
 <div align="center">
-  <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Waischbrot/Waischbrot/blob/main/assets/literally_me.gif">
+  <img width="700" alt="GIF" align="center" src="https://github.com/Waischbrot/Waischbrot/blob/main/assets/literally_me.gif">
 </div>
 
 </br></br>
@@ -37,7 +37,7 @@
 </br>
 
 ## Tech experiences 🖥️🛠:
-> Some of the tools & languages that i have touched in my projects
+> Some of the tools & languages that i have used in my projects
 
 </br>
   
@@ -58,9 +58,19 @@
 
 </br>
 
-<div align="right">
-  <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Waischbrot/Waischbrot/blob/main/assets/contact_me.gif">
-</div>
+## Contact Me ☕:
+
+</br>
+<p>
+  <img width="450" alt="GIF" align="right" src="https://github.com/Waischbrot/Waischbrot/blob/main/assets/contact_me.gif">
+
+  <i>A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.</i>
+  <br>
+  <i>You miss 100% of the shots you don't take.</i>
+ 
+</p>
+
+</br></br>
 
 *************
 [dmTech]: https://www.dm-jobs.com/dmTECH/?locale=de_DE "dmTech"
