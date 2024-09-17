@@ -22,9 +22,6 @@
   <a href="https://github.com/Waischbrot">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/Waischbrot?style=flat&logo=github">
   </a>
-  <a href="https://discord.gg/9UFpeesx62">
-    <img alt="Discord" src="https://img.shields.io/discord/1285626126567473242?logo=discord&logoColor=white">
-  </a>
 </p>
 
 <a href="#waischbrot-title">
