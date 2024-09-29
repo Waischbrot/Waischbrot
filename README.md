@@ -26,8 +26,8 @@
 - 🏃‍♂️ &nbsp;In my free time, I enjoy **long-distance running** and **chess**
 - 📯 &nbsp;Ask me anything on my **[issues page]**
 
-<a href="#waischbrot-title">
-  <img src="https://raw.githubusercontent.com/Waischbrot/github-stats-transparent/output/generated/overview.svg" alt="waischbrot" align="center"/>
+<a href="#waischbrot-title" align="center">
+  <img src="https://raw.githubusercontent.com/Waischbrot/github-stats-transparent/output/generated/overview.svg" alt="waischbrot"/>
 </a>
 
 </br>
