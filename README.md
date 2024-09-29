@@ -20,15 +20,15 @@
   </a>
 </p>
 
-<a href="#waischbrot-title">
-  <img src="https://raw.githubusercontent.com/Waischbrot/github-stats-transparent/output/generated/overview.svg" alt="waischbrot" align="right" />
-</a>
-
 - 💼 &nbsp;I'm currently working at **[dmTech]**
 - 🌱 &nbsp;I'm currently building my **[portfolio]** (coming soon!)
 - 💡 &nbsp;I like to talk about **Java**, **Kotlin**, and **web apps**
 - 🏃‍♂️ &nbsp;In my free time, I enjoy **long-distance running** and **chess**
 - 📯 &nbsp;Ask me anything on my **[issues page]**
+
+<a href="#waischbrot-title">
+  <img src="https://raw.githubusercontent.com/Waischbrot/github-stats-transparent/output/generated/overview.svg" alt="waischbrot"/>
+</a>
 
 </br>
 
@@ -54,24 +54,17 @@
   </p>
 </a>
 
-</br>
+## Contact me 🍔:
+> In case you have any questions / requests!
 
-*************
-
-</br>
-
-<p>
-  <img width="450" alt="GIF" align="right" src="https://github.com/Waischbrot/Waischbrot/blob/main/assets/contact_me.gif">
-  </br>
-  <i>I fear not the man who has practiced 10,000 kicks once, but I</i>
-  </br>
-  <i>fear the man who has practiced one kick 10,000 times.</i>
-  </br>
-  </br>
+<p align="center">
   </br>
   <a href="https://discord.gg/mDfs2Db5TP" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  /></a>
   <a href="https://stackoverflow.com/users/27356488/waischbrot" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="stackoverflow logo"  /></a>
   <a href="mailto:lukas.bollhoefer@gmx.de" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/static/v1?message=lukas.bollhoefer@gmx.de&logo=maildotru&label=&color=4CAF50&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="mail logo"  /></a>
+  </br>
+  </br>
+  <img width="450" alt="GIF" src="https://github.com/Waischbrot/Waischbrot/blob/main/assets/contact_me.gif">
 </p>
 
 [dmTech]: https://www.dm-jobs.com/dmTECH/?locale=de_DE "dmTech"
