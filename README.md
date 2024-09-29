@@ -27,7 +27,7 @@
 - 📯 &nbsp;Ask me anything on my **[issues page]**
 
 <a href="#waischbrot-title">
-  <img src="https://raw.githubusercontent.com/Waischbrot/github-stats-transparent/output/generated/overview.svg" alt="waischbrot"/>
+  <img src="https://raw.githubusercontent.com/Waischbrot/github-stats-transparent/output/generated/overview.svg" alt="waischbrot" align="center"/>
 </a>
 
 </br>
