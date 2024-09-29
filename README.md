@@ -1,10 +1,6 @@
 # 👋 Hey, I'm Lukas, **19** years old
 
-<div align="center">
-  <img width="700" alt="GIF" align="center" src="https://github.com/Waischbrot/Waischbrot/blob/main/assets/literally_me.gif">
-</div>
-
-</br></br>
+</br>
 
 <p align="left">
   <a href="https://github.com/Waischbrot/Waischbrot">
