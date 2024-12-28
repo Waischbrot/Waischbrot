@@ -36,13 +36,43 @@
 > I have used many different tools, but these are the ones i like most :)
 
 </br>
-  
-<a href="https://waischbrot.net">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,maven,gradle,spring,hibernate" alt="java&kotlin">
-    </br>
-    <img src="https://skillicons.dev/icons?i=mysql,elasticsearch,mongodb,postgres" alt="data">
-    </br>
-    <img src="https://skillicons.dev/icons?i=redis,kafka" alt="pubsub">
+<a href="https://www.java.com">
+    <img src="https://skillicons.dev/icons?i=java" alt="java">
+</a>
+<a href="https://kotlinlang.org">
+    <img src="https://skillicons.dev/icons?i=kotlin" alt="kotlin">
+</a>
+<a href="https://maven.apache.org">
+    <img src="https://skillicons.dev/icons?i=maven" alt="maven">
+</a>
+<a href="https://gradle.org">
+    <img src="https://skillicons.dev/icons?i=gradle" alt="gradle">
+</a>
+<a href="https://spring.io">
+    <img src="https://skillicons.dev/icons?i=spring" alt="spring">
+</a>
+<a href="https://hibernate.org">
+    <img src="https://skillicons.dev/icons?i=hibernate" alt="hibernate">
+</a>
+</br>
+<a href="https://www.mysql.com">
+    <img src="https://skillicons.dev/icons?i=mysql" alt="mysql">
+</a>
+<a href="https://www.elastic.co">
+    <img src="https://skillicons.dev/icons?i=elasticsearch" alt="elasticsearch">
+</a>
+<a href="https://www.mongodb.com">
+    <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb">
+</a>
+<a href="https://www.postgresql.org">
+    <img src="https://skillicons.dev/icons?i=postgres" alt="postgres">
+</a>
+</br>
+<a href="https://redis.io">
+    <img src="https://skillicons.dev/icons?i=redis" alt="redis">
+</a>
+<a href="https://kafka.apache.org">
+    <img src="https://skillicons.dev/icons?i=kafka" alt="kafka">
 </a>
 
 ## Contact me 🍔:
