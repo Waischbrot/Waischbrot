@@ -40,7 +40,7 @@
 <a href="https://waischbrot.net">
     <img src="https://skillicons.dev/icons?i=java,kotlin,maven,gradle,spring,hibernate" alt="java&kotlin">
     </br>
-    <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgres" alt="data">
+    <img src="https://skillicons.dev/icons?i=mysql,elasticsearch,mongodb,postgres" alt="data">
     </br>
     <img src="https://skillicons.dev/icons?i=redis,kafka" alt="pubsub">
 </a>
