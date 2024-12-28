@@ -38,13 +38,11 @@
 </br>
   
 <a href="https://waischbrot.net">
-  <p align="center">
     <img src="https://skillicons.dev/icons?i=java,kotlin,maven,gradle,spring,hibernate" alt="java&kotlin">
     </br>
     <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgres" alt="data">
     </br>
     <img src="https://skillicons.dev/icons?i=redis,kafka" alt="pubsub">
-  </p>
 </a>
 
 ## Contact me 🍔:
