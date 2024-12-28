@@ -32,25 +32,18 @@
 
 </br>
 
-## Tech Experience 🖥️🛠:
-> Some of the tools & languages that i have used throughout my projects
+## Favorite Tools 🖥️🛠:
+> I have used many different tools, but these are the ones which i spend the most time with :)
 
 </br>
   
-<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 <a href="https://waischbrot.net">
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=idea,java,kotlin,maven,gradle,spring,hibernate" alt="java&kotlin">
-    </br>
-    <img src="https://skillicons.dev/icons?i=vscode,html,css,js,ts,bun" alt="web">
+    <img src="https://skillicons.dev/icons?i=java,kotlin,maven,gradle,spring,hibernate" alt="java&kotlin">
     </br>
     <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgres" alt="data">
     </br>
-    <img src="https://skillicons.dev/icons?i=linux,windows,bash" alt="os">
-    </br>
     <img src="https://skillicons.dev/icons?i=redis,kafka" alt="pubsub">
-  </br>
-    <img src="https://skillicons.dev/icons?i=python" alt="garbage">
   </p>
 </a>
 
