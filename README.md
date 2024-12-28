@@ -24,7 +24,6 @@
 - 🌱 &nbsp;I'm currently building my **[portfolio]** (coming soon!)
 - 💡 &nbsp;I like to talk about **Java**, **Kotlin**, and **web apps**
 - 🏃‍♂️ &nbsp;In my free time, I enjoy **long-distance running** and **chess**
-- 📯 &nbsp;Ask me anything on my **[issues page]**
 
 <a href="#waischbrot-title">
     <img src="https://raw.githubusercontent.com/Waischbrot/github-stats-transparent/output/generated/overview.svg" alt="waischbrot"/>
