@@ -48,13 +48,11 @@
 ## Contact me 🍔:
 > In case you have any questions / requests!
 
-<p align="center">
-  </br>
-  <a href="mailto:lukas.bollhoefer@gmx.de" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/static/v1?message=lukas.bollhoefer@gmx.de&logo=maildotru&label=&color=4CAF50&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="mail logo"  /></a>
-  </br>
-  </br>
-  <img width="450" alt="GIF" src="https://github.com/Waischbrot/Waischbrot/blob/main/assets/contact_me.gif">
-</p>
+</br>
+<a href="mailto:lukas.bollhoefer@gmx.de" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/static/v1?message=lukas.bollhoefer@gmx.de&logo=maildotru&label=&color=4CAF50&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="mail logo"  /></a>
+</br>
+</br>
+<img width="450" alt="GIF" src="https://github.com/Waischbrot/Waischbrot/blob/main/assets/contact_me.gif">
 
 [dmTech]: https://www.dm-jobs.com/dmTECH/?locale=de_DE "dmTech"
 [portfolio]: https://waischbrot.net "My Portfolio"
