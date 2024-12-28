@@ -33,7 +33,7 @@
 </br>
 
 ## Favorite Tools 🖥️🛠:
-> I have used many different tools, but these are the ones which i spend the most time with :)
+> I have used many different tools, but these are the ones which i have specialised in :)
 
 </br>
   
