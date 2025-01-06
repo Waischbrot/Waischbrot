@@ -21,7 +21,7 @@
 </p>
 
 - 💼 &nbsp;I'm currently working at **[dmTech]**
-- 🌱 &nbsp;I'm currently building my **[portfolio]** (coming soon!)
+- 🌱 &nbsp;Studying applied computer science
 - 💡 &nbsp;I like to talk about **Java**, **Kotlin**, and **web apps**
 - 🏃‍♂️ &nbsp;In my free time, I enjoy **long-distance running** and **chess**
 
