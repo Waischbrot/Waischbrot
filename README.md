@@ -20,7 +20,7 @@
   </a>
 </p>
 
-- 💼 &nbsp;I'm currently working at **[dmTech]**
+- 💼 &nbsp;I'm working at **[dmTech]**
 - 🌱 &nbsp;Studying applied computer science
 - 💡 &nbsp;I like to talk about **Java**, **Kotlin**, and **web apps**
 - 🏃‍♂️ &nbsp;In my free time, I enjoy **long-distance running** and **chess**
