@@ -83,6 +83,6 @@
 </br>
 <img width="450" alt="GIF" src="https://github.com/Waischbrot/Waischbrot/blob/main/assets/contact_me.gif">
 
-[dmTech]: https://www.dm-jobs.com/dmTECH/?locale=de_DE "dmTech"
+[dmTech]: https://www.dmtech.tech/ "dmTech"
 [portfolio]: https://waischbrot.net "My Portfolio"
 [issues page]: https://github.com/Waischbrot/Waischbrot/issues "Waischbrot/issues"
