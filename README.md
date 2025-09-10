@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Lukas, **19** years old
+# 👋 Hey, I'm Lukas, **20** years old
 
 </br>
 
@@ -24,10 +24,6 @@
 - 🌱 &nbsp;Studying applied computer science
 - 💡 &nbsp;I like to talk about **Java**, **Kotlin**, and **web apps**
 - 🏃‍♂️ &nbsp;In my free time, I enjoy **long-distance running** and **chess**
-
-<a href="#waischbrot-title">
-    <img src="https://raw.githubusercontent.com/Waischbrot/github-stats-transparent/output/generated/overview.svg" alt="waischbrot"/>
-</a>
 
 </br>
 
