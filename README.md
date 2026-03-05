@@ -20,14 +20,14 @@
   </a>
 </p>
 
-- 💼 &nbsp;I'm working at **[dmTech]**
-- 🌱 &nbsp;Studying applied computer science
-- 💡 &nbsp;I like to talk about **Java**, **Kotlin**, and **web apps**
-- 🏃‍♂️ &nbsp;In my free time, I enjoy **long-distance running** and **chess**
+- &nbsp;I'm working at **[dmTech]**
+- &nbsp;Studying applied computer science
+- &nbsp;I like to talk about **Java**, **Kotlin**, and **web apps**
+- &nbsp;In my free time, I enjoy **long-distance running** and **reading**
 
 </br>
 
-## Favorite Tools 🖥️🛠:
+## Favorite Tools:
 > I have used many different tools, but these are the ones i like most :)
 
 </br>
@@ -70,7 +70,7 @@
     <img src="https://skillicons.dev/icons?i=graphql" alt="graphql">
 </a>
 
-## Contact me 🍔:
+## Contact me:
 > In case you have any questions / requests!
 
 </br>
