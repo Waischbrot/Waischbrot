@@ -22,8 +22,6 @@
 - &nbsp;I like to talk about **Java**, **Kotlin**, and **web apps**
 - &nbsp;In my free time, I enjoy **long-distance running** and **reading**
 
-</br>
-
 ## Favorite Tools:
 > I have used many different tools, but these are the ones i like most :)
 
