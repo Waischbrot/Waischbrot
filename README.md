@@ -6,11 +6,8 @@
   <a href="https://github.com/Waischbrot/Waischbrot">
     <img src="https://komarev.com/ghpvc/?username=waischbrot" alt="page views" />
   </a>
-  <a href="https://waischbrot.net">
+  <a href="https://waischbrot.de">
     <img alt="Website" src="https://img.shields.io/badge/website-down-red">
-  </a>
-  <a href="https://stackoverflow.com/users/27356488">
-    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/27356488?color=orange&label=reputation&logo=stackoverflow">
   </a>
   <a href="https://www.debian.org/">
     <img alt="Debian" src="https://img.shields.io/badge/System-Debian-informational?style=flat&logo=debian&color=FCC624">
